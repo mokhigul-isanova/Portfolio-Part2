@@ -16,7 +16,7 @@ regard to residual analysis, minimal autocorrelation was a basis for residuals w
 validates the selected model robustness. In regard with forecasts, random walk model
 and additive models with daily dummy were used to occur accurate predictions for 5, 10, and 30 periods.</p>
 <br>
-<p>This research paper recommends to use the predicted Bitcoin price patterns to give
+<p>This research recommends to use the predicted Bitcoin price patterns to give
 information about strategic investment decisions. Furthermore, to reinforce anticipating
 accuracy, models of additive model and random walk model were used. Additionally, considering external shocks, policy charges and volatility of the market are reassessed
 consistently. Overall, this final paper stresses the effectiveness of time series method in identifying
