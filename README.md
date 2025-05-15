@@ -23,4 +23,4 @@ consistently. Overall, this final paper stresses the effectiveness of time serie
 and anticipating Bitcoin price alterations. By enhancing improved analytics and develop
 models, participants can decide data analysis in a volatile cryptocurrency market</p>
 
-Source of the dataset:https://www.kaggle.com/datasets/abhishek14398/bitcoin- prediction-dataset-bullrun 
+Source of the dataset: https://www.kaggle.com/datasets/abhishek14398/bitcoin-prediction-dataset-bullrun 
